@@ -1,1 +1,2 @@
 # DIVSHOOT
+exos sur divs
